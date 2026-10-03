@@ -26,6 +26,14 @@ Threads are never finished. They're pulled, extended, rewoven. If a thread chang
 - [The Token](threads/token.md) — what crosses between cells is the algorithm. Never the inference.
 - [The Room](threads/the-room.md) — the inference is the actual game, played inside. The replayable ledger.
 - [The Jam](threads/the-jam.md) — privacy by architecture. Operational fiction in lockstep, not the Venn diagram.
+- [The Autopilot](threads/the-autopilot.md) — the distilled routine that freed the precious attention. Hold the wheel, turn the screws.
+- [The Tower](threads/the-tower.md) — the room accumulates past attention as infrastructure.
+- [The Ladder](threads/the-ladder.md) — words to waveforms. Climb away from language to control, return to coordinate.
+- [The Scroll](threads/the-scroll.md) — share the trajectory, not the interior. Federated learning between cells.
+- [The Superset](threads/the-superset.md) — not a product. The set of all pieces. Decomposition as generative.
+- [The Constant](threads/the-constant.md) — a repository can be E=mc². Git as therefore-piping.
+- [The First RSI](threads/the-first-rsi.md) — PLATO was recursive self-improvement. The substrate was human.
+- [The Graduate](threads/the-graduate.md) — the frontier teacher, the pruned graduate. Cell economics.
 
 ## Contributing
 
