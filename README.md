@@ -18,6 +18,7 @@ Threads are never finished. They're pulled, extended, rewoven. If a thread chang
 - [Harness and Powder](threads/harness-and-powder.md) — the intelligence was never in the model. It's in the system around the model.
 - [War as GAN](threads/war-as-gan.md) — adversarial pressure as the engine of evolution, from battlefields to agent loops.
 - [Illustration Over Definition](threads/illustration-over-definition.md) — the method: why we write lenses, not boundaries.
+- [The Binary Agent](threads/the-binary-agent.md) — the minimal agent is a switch: halt this, trigger that. Flipped by inference, not deduction.
 
 ## Contributing
 
