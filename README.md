@@ -19,6 +19,13 @@ Threads are never finished. They're pulled, extended, rewoven. If a thread chang
 - [War as GAN](threads/war-as-gan.md) — adversarial pressure as the engine of evolution, from battlefields to agent loops.
 - [Illustration Over Definition](threads/illustration-over-definition.md) — the method: why we write lenses, not boundaries.
 - [The Binary Agent](threads/the-binary-agent.md) — the minimal agent is a switch: halt this, trigger that. Flipped by inference, not deduction.
+- [The Go-Around](threads/the-go-around.md) — green lights, human says no. The quintessential example.
+- [Harness](threads/harness.md) — the intelligence was never in the powder. Better powder demands better harness.
+- [The Debt](threads/debt.md) — the agent's power isn't in what it can do. It's in what it owes.
+- [The Receiver](threads/the-receiver.md) — the default is supervision. The 2-bit system, watchers all the way up.
+- [The Token](threads/token.md) — what crosses between cells is the algorithm. Never the inference.
+- [The Room](threads/the-room.md) — the inference is the actual game, played inside. The replayable ledger.
+- [The Jam](threads/the-jam.md) — privacy by architecture. Operational fiction in lockstep, not the Venn diagram.
 
 ## Contributing
 
