@@ -34,6 +34,7 @@ Threads are never finished. They're pulled, extended, rewoven. If a thread chang
 - [The Constant](threads/the-constant.md) — a repository can be E=mc². Git as therefore-piping.
 - [The First RSI](threads/the-first-rsi.md) — PLATO was recursive self-improvement. The substrate was human.
 - [The Graduate](threads/the-graduate.md) — the frontier teacher, the pruned graduate. Cell economics.
+- [Below Perception](threads/below-perception.md) — how automation stops being the topic and becomes the floor.
 
 ## Contributing
 
